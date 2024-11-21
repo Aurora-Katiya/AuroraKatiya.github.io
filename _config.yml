@@ -22,11 +22,10 @@ repository               : "Tangguo-maomao/AuroraKatiya.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Aurora Katiya"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "オーロラ・カティヤからのご挨拶です!"
+  location         : "日本"
   uri              : # URL
   email            : "none@example.org" 
 
