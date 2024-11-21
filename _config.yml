@@ -21,7 +21,7 @@ repository               : "Aurora-Katiya/AuroraKatiya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "https://s21.ax1x.com/2024/11/21/pAWjxVU.png"
   name             : "Aurora Katiya"
   pronouns         : "she" # example: "she/her"  
   bio              : "オーロラ・カティヤからのご挨拶です!"
