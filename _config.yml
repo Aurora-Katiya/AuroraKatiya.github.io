@@ -12,7 +12,7 @@ title                    : "カティヤ ロッジへようこそ !"
 title_separator          : "-"
 name                     : &name "Aurora Katiya"
 description              : &description "オーロラ・カティヤからのご挨拶です!"
-url                      : "https://aurora-katiya.github.io/AuroraKatiya.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://aurora-katiya.github.io/AuroraKatiya.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aurora-Katiya/AuroraKatiya.github.io"
 
